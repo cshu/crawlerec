@@ -1,0 +1,5 @@
+#1
+python3 -m venv .
+source bin/activate
+#2
+python3 -m pip install selenium
